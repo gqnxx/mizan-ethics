@@ -29,8 +29,8 @@ A digital chain-of-custody that tags every piece of evidence with its source, ac
 
 The complete research, including the mathematical models and regional sensitivity analysis, is available in the `papers/` directory:
 
-*   **Arabic (Official):** [MIZAN_RESEARCH_AR.pdf](papers/MIZAN_RESEARCH_AR.pdf)
-*   **English:** [MIZAN_RESEARCH_EN.pdf](papers/MIZAN_RESEARCH_EN.pdf)
+*   **Arabic:** [MIZAN_RESEARCH_AR.pdf](papers/MIZAN_RESEARCH_AR.pdf) ([Source](papers/MIZAN_RESEARCH_AR.md))
+*   **English:** [MIZAN_RESEARCH_EN.pdf](papers/MIZAN_RESEARCH_EN.pdf) ([Source](papers/MIZAN_RESEARCH_EN.md))
 
 ---
 
