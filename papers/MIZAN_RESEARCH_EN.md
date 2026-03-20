@@ -229,7 +229,7 @@ The ultimate goal is the transformation of OSINT from an ad-hoc practice into a 
   title = {MIZAN: A Quantitative Framework for Non-Invasive OSINT Compliance},
   year = {2026},
   month = {March},
-  url = {https://github.com/gqnxx/MIZAN-Protocol}
+  url = {https://github.com/gqnxx/mizan-ethics}
 }
 ```
 
